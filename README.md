@@ -7,21 +7,15 @@ I am a 16-year-old programming enthusiast building backend projects with Python 
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://vercel.app" alt="Andrii's GitHub Stats" height="150" />
-</p>
-
+- **Languages:** Python, SQL
+- **Frameworks & Libraries:** FastAPI, Aiogram, Pydantic, SQLAlchemy
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub, VScode
 ---
 
 ### 🤝 Connect With Me
 
-<p align="left">
-  <a href="[https://t.me](https://t.me/BorchukAndrii)" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-  <a href="[https://instagram.com](https://www.instagram.com/borchuk.andrii?igsh=MTc1aGw0NnM2dGQ4eA%3D%3D&utm_source=qr)" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+- 📱 **Telegram:** [@BorchukAndrii](https://t.me)
+- 📸 **Instagram:** [@borchuk.andrii](https://instagram.com)
