@@ -15,7 +15,3 @@ I am a 16-year-old programming enthusiast building backend projects with Python 
 - **Tools:** Git, GitHub, VScode
 ---
 
-### 🤝 Connect With Me
-
-- 📱 **Telegram:** [@BorchukAndrii](https://t.me)
-- 📸 **Instagram:** [@borchuk.andrii](https://instagram.com)
