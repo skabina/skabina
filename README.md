@@ -1,16 +1,27 @@
-## Hi there 👋
+<img width="948" height="1110" alt="image" src="https://github.com/user-attachments/assets/317df5a9-9e7b-4d71-a847-84ac1b7789ca" />## Hi, I'm Andrii 👋
 
-<!--
-**skabina/skabina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16-year-old programming enthusiast building backend projects with Python and FastAPI. I am just living, learning, and enjoying life while discovering cleaner ways to write code and work with databases.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently focused on exploring backend architecture, asynchronous programming, and improving my coding skills.
+- 💬 Open to learning new tech, getting code reviews, and working on interesting hobby projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Andrii's GitHub Stats" height="150" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="[https://t.me](https://t.me/BorchukAndrii)" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="[https://instagram.com](https://www.instagram.com/borchuk.andrii?igsh=MTc1aGw0NnM2dGQ4eA%3D%3D&utm_source=qr)" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
