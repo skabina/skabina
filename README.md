@@ -1,4 +1,4 @@
-<img width="948" height="1110" alt="image" src="https://github.com/user-attachments/assets/317df5a9-9e7b-4d71-a847-84ac1b7789ca" />## Hi, I'm Andrii 👋
+## Hi, I'm Andrii 👋
 
 I am a 16-year-old programming enthusiast building backend projects with Python and FastAPI. I am just living, learning, and enjoying life while discovering cleaner ways to write code and work with databases.
 
